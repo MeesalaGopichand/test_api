@@ -1,0 +1,5 @@
+Flask
+gunicorn
+selenium
+webdriver_manager
+urllib
