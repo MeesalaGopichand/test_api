@@ -2,4 +2,4 @@ Flask
 gunicorn
 selenium
 webdriver_manager
-urllib
+urllib3
