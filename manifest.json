@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "new api ext",
+    "description": "test new api",
+    "version": "1.0",
+    "permissions":["tabs","cookies","storage"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+  }
